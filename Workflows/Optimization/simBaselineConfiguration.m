@@ -77,7 +77,7 @@ saveFolder = [char(proj.RootFolder) filesep 'Workflows' filesep 'Optimization' f
 
 % Save the results in the folder
 try
-    save([saveFolder,'\baselineConf'],'resultsSummer','resultsWinter');
+    save([saveFolder filesep 'baselineConf'],'resultsSummer','resultsWinter');
 catch
     disp('The "results" folder does not exist and is purposely put under gitignore (to avoid loading big data to Git). Create a result folder locally')
 end
