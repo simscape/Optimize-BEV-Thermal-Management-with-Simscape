@@ -11,6 +11,8 @@ The model simulates a mid-size sedan with rear wheel drive and comprises five su
 - **Coolant Cycle**
 - **Cabin Cycle**
 
+View on File Exchange: [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180639-optimize-bev-thermal-management-with-simscape)  
+You can also open in MATLAB Online: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simscape/Optimize-BEV-Thermal-Management-with-Simscape&project=OptimizingBatteryElectricVehicles.prj)
 
 The control algorithms are implemented in Simulink and are contained in the **Controls** subsystem.
 
