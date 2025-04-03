@@ -6,3 +6,5 @@
 
 % Open the main system
 open_system('BEV_Thermal_Management.slx');
+
+web('BEV_Thermal_Management_Overview.html')
