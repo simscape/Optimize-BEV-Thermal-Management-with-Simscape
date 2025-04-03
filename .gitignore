@@ -15,5 +15,5 @@ Slides_Videos/~$Sensitivity.pptx
 work/
 
 # Ignore result directories
-Workflows/Sensitivity/results/
-Workflows/Optimization/results/
+#Workflows/Sensitivity/results/
+#Workflows/Optimization/results/
