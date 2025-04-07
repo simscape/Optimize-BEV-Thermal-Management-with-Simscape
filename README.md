@@ -2,6 +2,8 @@
 This repository contains a model of a battery electric vehicle (BEV) with a thermal 
 management system. This virtual vehicle model was parametrized to describe a mid-size electric sedan [1].
 
+For a detailed description, check our Webinar [Optimizing a Battery Electric Vehicle Thermal Management System](https://de.mathworks.com/videos/optimizing-a-battery-electric-vehicle-thermal-management-system-1743087942599.html)
+
 View on File Exchange: [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/180639-optimize-bev-thermal-management-with-simscape)  
 You can also open in MATLAB Online: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simscape/Optimize-BEV-Thermal-Management-with-Simscape&project=OptimizingBatteryElectricVehicles.prj)
 
