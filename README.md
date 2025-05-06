@@ -157,7 +157,7 @@ It is also possible to use the [plotEnergySankey.m](/Scripts_Data/Scripts/04_Plo
 
 Alternatively, if not interested specifically in the consumption, the best way to 
 analyze the overall results of the model is with the 
-[Simscape Results Explorer](https://www.mathworks.com/help/simscape/ug/using-the-simscape-results-explorer.html).
+[Simscape Results Explorer](https://www.mathworks.com/help/simscape/ref/simscaperesultsexplorer.html).
 
 
 ## Sensitivity Analysis Workflow
