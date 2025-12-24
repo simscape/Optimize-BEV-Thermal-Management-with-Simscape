@@ -8,7 +8,7 @@ function setEvaporatorLengthSDO(evaporator_L)
 % evaporator_L: [1x1 double]           : Length of the evaporator in m
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 %% Implementation

@@ -15,7 +15,7 @@ function [cycle] = driveCycleParam(cycleName)
 % cycle: [1x1 struct] Contains the speed over time profile. The 1st represents the time and the 2nd the velocity
 
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Set cycle based on selection

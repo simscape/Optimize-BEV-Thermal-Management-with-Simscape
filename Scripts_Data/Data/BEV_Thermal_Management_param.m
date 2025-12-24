@@ -4,7 +4,7 @@
 % values. Click 'Reinitialize from Source' to reset to the parameter values
 % in this script.
 
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 
 %% Parameters potentially used for the sensitivity analysis
 blower_Kp                  = 0.040;      % Was 0.02 If at that level the cabin does not get cold quickly enough

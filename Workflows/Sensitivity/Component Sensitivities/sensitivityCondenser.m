@@ -13,7 +13,7 @@
 % vary the condenser dimensions (without adjusting the evaporator)
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 

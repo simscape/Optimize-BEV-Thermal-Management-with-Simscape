@@ -4,7 +4,7 @@
 % script will start a new simulation and then plot the cycle
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Check for pre-existing simulation results

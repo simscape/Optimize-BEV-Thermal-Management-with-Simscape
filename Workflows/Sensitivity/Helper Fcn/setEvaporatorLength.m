@@ -12,7 +12,7 @@ function simInput = setEvaporatorLength(evaporator_L, simInput)
 % simInput: [1x1 SimulationInput]: Updated Simulation Input
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 % Rounding evaporator length improves stability:

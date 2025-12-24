@@ -8,7 +8,7 @@
 % This script parallelizes the optimization by using Simulink Design
 % Optimization (SDO) and Parallel Computing Toolbox  
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% Inputs: Set simulation options here

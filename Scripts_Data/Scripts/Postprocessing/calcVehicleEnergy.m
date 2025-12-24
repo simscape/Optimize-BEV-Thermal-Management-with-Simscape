@@ -11,7 +11,7 @@ function out=calcVehicleEnergy(slog,varargin)
 % Function Call Example: vehEnergies = calcVehicleEnergy(simres.sscThermalManagement);
 %-----------------
 %
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% 0) Check for optional variables

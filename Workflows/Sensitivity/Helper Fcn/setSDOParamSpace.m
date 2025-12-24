@@ -16,7 +16,7 @@ function paramSpace = setSDOParamSpace(varTable,modelName)
 % paramSpace [GriddedSpace or ParameterSpace] Variable storing all information on how the parameters should be varied for the sensitivity analysis
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 %% Implementation

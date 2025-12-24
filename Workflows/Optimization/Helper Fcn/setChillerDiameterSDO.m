@@ -10,7 +10,7 @@ function setChillerDiameterSDO(chiller_tube_D)
 % chiller_tube_D: [1x1 double]         : diameter of the coolant channel in the chiller in m
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 %% Implementation

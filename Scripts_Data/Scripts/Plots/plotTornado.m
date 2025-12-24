@@ -17,7 +17,7 @@ function plotTornado(S,varargin)
 % Objective:[1x1 integer]   Select which objective should be represented by the tornado plot (e.g 1,2,3)
 
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Optional Inputs

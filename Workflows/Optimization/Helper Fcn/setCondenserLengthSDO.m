@@ -8,7 +8,7 @@ function setCondenserLengthSDO(condenser_L)
 % condenser_L: [1x1 double]         : Length of the condenser in m
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 %% Implementation

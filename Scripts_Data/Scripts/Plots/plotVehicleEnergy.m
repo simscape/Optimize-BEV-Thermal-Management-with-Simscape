@@ -5,7 +5,7 @@ function energies = plotVehicleEnergy(out,varargin)
 %-----------------
 % Inputs:      out: This struct is the output of the function calcVehicleEnergy
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% Additional Inputs

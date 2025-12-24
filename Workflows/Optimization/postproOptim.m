@@ -10,7 +10,7 @@ function postproOptim(trials,x,varargin)
 % varargin      : varargin    : Implements additional inputs. See section 1) for more info
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Optional Inputs

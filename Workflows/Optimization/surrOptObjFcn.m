@@ -13,7 +13,7 @@ function response = surrOptObjFcn(x)
 % x          : [1x7 table]: Table containing the variables to be set. These variables have been calculated by the optimizer
 
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Set up the variables and correct the discrete variables:

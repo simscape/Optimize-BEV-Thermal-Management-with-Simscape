@@ -8,7 +8,7 @@ function postproSensitivity(simRes)
 % simRes        : [struct]          : Struct containing the results of the sensitivity analysis (see sensitivityGlobal.m)
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Filter out configurations that failed

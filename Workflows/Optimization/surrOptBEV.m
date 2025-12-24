@@ -6,7 +6,7 @@
 % - Vehicle consumption is defined as a combined consumption of two scenario (summer cycle and winter cycle)
 % - While optimizing, it has to be ensured that the battery and the cabin reach a target temperature within a given amount of time
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Initialize model:

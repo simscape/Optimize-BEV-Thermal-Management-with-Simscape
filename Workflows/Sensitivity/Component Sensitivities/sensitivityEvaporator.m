@@ -6,7 +6,7 @@
 % 
 % Adapting the evaporator length only has an impact in the case of a summer scenario
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Set up the model

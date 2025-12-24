@@ -5,7 +5,7 @@
 
 %% Author: Lorenzo Nicoletti
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Set up the model

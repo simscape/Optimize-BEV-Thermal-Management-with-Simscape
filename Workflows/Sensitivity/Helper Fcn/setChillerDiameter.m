@@ -14,7 +14,7 @@ function simInput = setChillerDiameter(chiller_tube_D,simInput)
 % simInput: [1x1 SimulationInput]: Updated Simulation Input
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 % Rounding the diameter to avoid unrealistic values

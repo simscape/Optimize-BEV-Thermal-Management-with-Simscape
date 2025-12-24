@@ -13,14 +13,14 @@
 % you also need to update setSimInputObj
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 %% Inputs: Set simulation options here
 clear;
 scenario    = 'Summer';                                            % Scenario to be simulated: 'Summer' or 'Winter'
 useParallel = 1;                                                   % Use parallel pool: 1 = Yes, and 0 = No
-numWorkers  = 6;                                                   % CHECK on your parallel settings how many workers you have available!
+numWorkers  = 4;                                                   % CHECK on your parallel settings how many workers you have available!
 hasParallelToolbox = license('test', 'Distrib_Computing_Toolbox'); % Check if a license is active for parallel toolbox:
 
 %% 1) Set up and load model

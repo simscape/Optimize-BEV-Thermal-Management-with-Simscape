@@ -14,7 +14,7 @@ function reachTime = checkTempReq(tempVector,tempLim,varargin)
 % reachTime: [1x1 double]: Time it takes to reach the target range
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 % Parse input arguments

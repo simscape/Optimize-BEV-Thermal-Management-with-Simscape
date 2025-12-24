@@ -9,7 +9,7 @@ function modelName = checkModel(modelName)
 % modelName: [1x1 char]: Name of the model
 
 %-----------------
-% Copyright 2023-2024 The MathWorks, Inc.
+% Copyright 2023-2025 The MathWorks, Inc.
 %-----------------
 
 % Check if model is loaded

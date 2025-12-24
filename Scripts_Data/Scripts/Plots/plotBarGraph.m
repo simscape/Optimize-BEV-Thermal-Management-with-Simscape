@@ -20,7 +20,7 @@ function [barHandle,figHandle] = plotBarGraph(XData,YData,varargin)
 % Legend:  [1xn cellarray] Array that contains the labels of the legend
 
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% 1) Set optional inputs

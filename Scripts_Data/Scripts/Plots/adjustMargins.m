@@ -5,7 +5,7 @@ function adjustMargins(leftMarginCm, bottomMarginCm, rightMarginCm, topMarginCm)
 % of left, bottom, right and top margin
 
 %-----------------
-% Copyright 2022-2024 The MathWorks, Inc.
+% Copyright 2022-2025 The MathWorks, Inc.
 %-----------------
 
 %% Implementation
