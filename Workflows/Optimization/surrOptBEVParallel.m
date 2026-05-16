@@ -8,12 +8,12 @@
 % This script parallelizes the optimization by using Simulink Design
 % Optimization (SDO) and Parallel Computing Toolbox  
 %-----------------
-% Copyright 2022-2025 The MathWorks, Inc.
+% Copyright 2022-2026 The MathWorks, Inc.
 %-----------------
 
 %% Inputs: Set simulation options here
 clear;
-numWorkers  = 8;                                                   % CHECK on your parallel settings how many workers you have available!
+numWorkers  = 4;                                                   % CHECK on your parallel settings how many workers you have available!
 hasParallelToolbox = license('test', 'Distrib_Computing_Toolbox'); % Check if a license is active for parallel toolbox:
 
 % Stop the code and output an error in case the parallel computing toolbox is not available as a license

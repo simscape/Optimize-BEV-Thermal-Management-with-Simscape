@@ -5,7 +5,7 @@
 % -Summer configuration: Uses a City cycle and the outer temperature is 40°C
 
 %-----------------
-% Copyright 2023-2025 The MathWorks, Inc.
+% Copyright 2023-2026 The MathWorks, Inc.
 %-----------------
 
 %% 1) Set up the models to be simulated

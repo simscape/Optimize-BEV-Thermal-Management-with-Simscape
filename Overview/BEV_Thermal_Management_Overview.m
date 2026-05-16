@@ -16,7 +16,7 @@
 % as small city cars or SUVs, with minimal modifications and parameter
 % adjustments.
 %
-% Copyright 2021-2025 The MathWorks, Inc.
+% Copyright 2021-2026 The MathWorks, Inc.
 
 %% Model
 

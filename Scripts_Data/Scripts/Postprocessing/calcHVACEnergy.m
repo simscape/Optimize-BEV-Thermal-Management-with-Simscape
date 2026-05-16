@@ -7,7 +7,7 @@ function out = calcHVACEnergy(slog)
 %-----------------
 % Outputs: out: The results are stored in the out structure
 %-----------------
-% Copyright 2022-2025 The MathWorks, Inc.
+% Copyright 2022-2026 The MathWorks, Inc.
 %-----------------
 
 % Get Simulation time 
@@ -19,7 +19,7 @@ cmprsEn  = trapz(simTime,cmprsPwr)/3600/1000;
 
 %% DCDC
 % Estimate the losses in the power transmission between HV and LV networks
-DCDCPwrLoss = slog.DCDC.DCDC.power_dissipated.series.values('W');
+DCDCPwrLoss = slog.DCDC.DCDC.powerDissipated.series.values('W');
 DCDCEnLoss  = trapz(simTime, DCDCPwrLoss)/3600/1000;
 
 %% Cooling fan
